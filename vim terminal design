@@ -6,4 +6,3 @@ EOF
 :wq!
 source ~/.zshrc
 
-asd
