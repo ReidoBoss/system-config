@@ -1,0 +1,7 @@
+<adto sa pinaka ubos>
+<press I>
+cat <<'"EOF"
+<IMOHANG ART DIRI ASCII>
+EOF
+:wq!
+source ~/.zshrc
