@@ -1,6 +1,10 @@
-emmet
-material theme
-a file icon
-gitgutter
-pretty json
-sidebarenhancement
+package control console manual install link:
+  from urllib.request import urlretrieve;urlretrieve(url="https://github.com/wbond/package_control/releases/latest/download/Package.Control.sublime-package", filename=sublime.installed_packages_path() + '/Package Control.sublime-package')
+
+must install:
+  emmet
+  material theme
+  a file icon
+  gitgutter
+  pretty json
+  sidebarenhancement
