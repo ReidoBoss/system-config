@@ -4,6 +4,7 @@ package control console manual install link:
 must install:
   emmet
   material theme
+  dracula
   a file icon
   gitgutter
   pretty json
