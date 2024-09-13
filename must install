@@ -4,7 +4,8 @@ package control console manual install link:
 must install:
   emmet
   material theme
-  dracula
+  dracula color scheme
+  fira code font : https://github.com/tonsky/FiraCode
   a file icon
   gitgutter
   pretty json

@@ -5,5 +5,3 @@ cat <<'"EOF"
 EOF
 :wq!
 source ~/.zshrc
-
-asdasd
