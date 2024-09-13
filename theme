@@ -3,14 +3,17 @@
   [
       "Vintage",
   ],
-  "color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
-  "theme": "Material-Theme.sublime-theme",
+  "color_scheme": "Packages/ayu/ayu-mirage.sublime-color-scheme",
+  "theme": "ayu-mirage.sublime-theme",
   "draw_white_space": "all",
   "close_windows_when_empty": true,
   "ensure_newline_at_eof_on_save": true,
   "font_face": "Ricty Discord",
-  "font_size": 12,
+  "font_size": 15,
   "highlight_line": true,
+  "ui_native_titlebar":       true, // native titlebar on macOs
+  "ui_separator":             true, // separators between panels
+  "ui_wide_scrollbars":       true, // wider scrollbars
   "index_files": true,
   "remember_full_screen": true,
   "rulers": [80, 100, 120],
@@ -35,5 +38,16 @@
   /*"material_theme_accent_blue": true,*/
   /*"material_theme_accent_blue": true,*/
   /*"material_theme_accent_brba": true,*/
+  /*"material_theme_accent_bright-teal": true,*/
+  /*"material_theme_bold_tab": true,*/
+  "material_theme_bold_tab": true,
+  /*"material_theme_small_tab": true,*/
+  "material_theme_tabs_autowidth": true,
+  /*"material_theme_tabs_separator": true,*/
+  /*"material_theme_accent_scrollbars": true,*/
+  /*"material_theme_accent_titlebar": true,*/
+  /*"material_theme_contrast_mode": true,*/
+  "material_theme_contrast_mode": true,
+  /*"material_theme_accent_acid-lime": true,*/
   /*"material_theme_accent_bright-teal": true,*/
 }
