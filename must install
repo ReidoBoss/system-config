@@ -3,6 +3,7 @@ package control console manual install link:
 
 must install:
   emmet
+  AutofileName
   material theme
   dracula color scheme
   fira code font : https://github.com/tonsky/FiraCode
