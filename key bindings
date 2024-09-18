@@ -5,6 +5,6 @@
     },
 
     { "keys": ["super+`"], "command": "toggle_terminus_panel" },
-    { "keys": ["alt+t"], "command": "terminus_open", "args": { "cwd": "${file_path:${folder}}" } },
+    { "keys": ["super+t"], "command": "terminus_open", "args": { "cwd": "${file_path:${folder}}" } },
     { "keys": ["ctrl+shift+w"], "command": "terminus_close", "context": [{ "key": "terminus_view"}] }
 ]
