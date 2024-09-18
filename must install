@@ -14,3 +14,7 @@ must install:
   gitgutter
   pretty json
   sidebarenhancement
+
+javascript:
+  SublimeLinter
+  BracketHighlighter
