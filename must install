@@ -18,6 +18,9 @@ must install:
 javascript:
   SublimeLinter
   BracketHighlighter
+  nodejs
+  node completions
+  node requirer
 
 mac mouse helper: 
 https://macmousefix.com/
