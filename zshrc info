@@ -76,6 +76,7 @@ function cd() {
 # Set PATH for POSTGRESQL
 export PATH="/usr/local/opt/postgresql@11/bin:$PATH"
 export PATH="/Users/stsagarino/Documents/kotlinc/bin:$PATH"
+export PATH="$PATH:/Users/stsagarino/.nvm/versions/node/v21.7.3/bin/node"
 export LDFLAGS="-L/usr/local/opt/postgresql@11/lib"
 export CPPFLAGS="-I/usr/local/opt/postgresql@11/include"
 # Set PATH for nvm
