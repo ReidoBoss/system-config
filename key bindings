@@ -6,5 +6,17 @@
 
     { "keys": ["super+`"], "command": "toggle_terminus_panel" },
     { "keys": ["super+t"], "command": "toggle_terminus_panel", "args": { "cwd": "${file_path:${folder}}" } },
-    { "keys": ["ctrl+shift+w"], "command": "terminus_close", "context": [{ "key": "terminus_view"}] }
+    { "keys": ["super+shift+w"], "command": "terminus_close", "context": [{ "key": "terminus_view"}] },
+    { "keys": ["super+shift+k"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
+      {
+    "keys": ["super+shift+'"],
+    "command": "find_all",
+    "args": {
+        "find": "«.*?»",
+        "replace": "",
+        "reg": true
+    }
+  }
+
+
 ]
