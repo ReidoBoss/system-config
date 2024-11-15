@@ -4,12 +4,12 @@
       "Vintage",
   ],
   "color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
-  "theme": "Material-Theme-Palenight.sublime-theme",
+  "theme": "Adaptive.sublime-theme",
   "draw_white_space": "all",
   "close_windows_when_empty": true,
   "ensure_newline_at_eof_on_save": true,
   "font_face": "Fira Code",
-  "font_size": 12,
+  "font_size": 16,
   "highlight_line": true,
   "ui_native_titlebar":       true, // native titlebar on macOs
   "ui_separator":             true, // separators between panels
@@ -42,7 +42,7 @@
   /*"material_theme_accent_brba": true,*/
   /*"material_theme_accent_bright-teal": true,*/
   /*"material_theme_bold_tab": true,*/
-  "material_theme_bold_tab": true,
+  /*"material_theme_bold_tab": true,*/
   /*"material_theme_small_tab": true,*/
   "material_theme_tabs_autowidth": true,
   /*"material_theme_tabs_separator": true,*/
@@ -52,4 +52,19 @@
   "material_theme_contrast_mode": true,
   /*"material_theme_accent_acid-lime": true,*/
   /*"material_theme_accent_bright-teal": true,*/
+  "material_theme_accent_acid-lime": true,
+  "material_theme_accent_blue": true,
+  "material_theme_accent_brba": true,
+  "material_theme_accent_bright-teal": true,
+  "material_theme_accent_cyan": true,
+  "material_theme_accent_graphite": true,
+  "material_theme_accent_indigo": true,
+  /*"material_theme_accent_scrollbars": true,*/
+  "material_theme_accent_scrollbars": true,
+  /*"material_theme_accent_titlebar": true,*/
+  "material_theme_accent_titlebar": true,
+  "material_theme_bright_scrollbars": true,
+  /*"material_theme_small_tab": true,*/
+  "material_theme_bold_tab": true,
+  /*"material_theme_tabs_separator": true,*/
 }
